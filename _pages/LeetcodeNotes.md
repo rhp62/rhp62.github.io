@@ -7,7 +7,7 @@ redirect_from:
   - /LeetcodeNotes.html
 ---
 
-## Locations of key files/directories
+## 刷题刷题刷题
 
 | 题号 | 题目描述 | 难易程度 |
 |:--------|:-------:|--------:|
