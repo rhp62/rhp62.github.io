@@ -207,6 +207,42 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _paperNotes
+  - scope:
+      path: ""
+      type: PaperNotes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pythonNotes
+  - scope:
+      path: ""
+      type: PythonNotes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _LeetcodeNotes
+  - scope:
+      path: ""
+      type: LeetcodeNotes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _NlpNotes
+  - scope:
+      path: ""
+      type: NlpNotes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
