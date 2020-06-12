@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "论文阅读笔记"
+    url: /PaperNotes/
+
+  - title: "Python知识"
+    url: /PythonNotes/    
+
+  - title: "Leetcode题解"
+    url: /LeetcodeNotes/    
+    
+  - title: "NLP"
+    url: /NLP/
+
+  - title: "CV"
+    url: /CV/
+
+  - title: "机器学习基础"
+    url: /MachineLearning/
+
+  - title: "杂七杂八"
+    url: /Others/
+
+  - title: "Guide"
+    url: /markdown/
